@@ -5,7 +5,8 @@ public class PracticeTest {
 	@Test(priority=1)
 public  void Test1()
 {
-System.out.println("welcome to test1");	
+System.out.println("welcome to test1");
+System.out.println("hello");
 }
 	@Test(invocationCount = 2 ,priority=2)
 	public  void Test2()
