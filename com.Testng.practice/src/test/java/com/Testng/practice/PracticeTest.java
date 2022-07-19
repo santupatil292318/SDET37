@@ -6,7 +6,7 @@ public class PracticeTest {
 public  void Test1()
 {
 System.out.println("welcome to test1");
-System.out.println("hello world");
+System.out.println("hello");
 }
 	@Test(invocationCount = 2 ,priority=2)
 	public  void Test2()
@@ -21,6 +21,6 @@ System.out.println("hello world");
 	@Test(enabled=false )
 	public  void Test3()
 	{
-	System.out.println("welcome");
+	System.out.println("welcome to India");
 	}
 }
