@@ -6,7 +6,7 @@ public class PracticeTest {
 public  void Test1()
 {
 System.out.println("welcome to test1");
-System.out.println("hello world");
+System.out.println("hello santosh");
 }
 	@Test(invocationCount = 2 ,priority=2)
 	public  void Test2()
