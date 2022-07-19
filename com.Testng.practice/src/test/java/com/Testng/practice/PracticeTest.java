@@ -21,6 +21,6 @@ System.out.println("hello world");
 	@Test(enabled=false )
 	public  void Test3()
 	{
-	System.out.println("welcome to test3");
+	System.out.println("welcome");
 	}
 }
