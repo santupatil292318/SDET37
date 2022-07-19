@@ -15,6 +15,7 @@ System.out.println("hello");
 		String browser = System.getProperty("BROWSER");
 		System.out.println("browser====>"+browser);
 		System.out.println("tyss=====>"+url);
+		System.out.println("hello");
 	System.out.println("welcome to test2");
 }
 	@Test(enabled=false )
