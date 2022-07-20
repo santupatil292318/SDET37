@@ -5,7 +5,7 @@ public class PracticeTest {
 	@Test(priority=1)
 public  void Test1()
 {
-System.out.println("welcome to test1");
+System.out.println("welcome to Jenkins Build 2");
 
 }
 	@Test(invocationCount = 2 ,priority=2)
@@ -21,7 +21,7 @@ System.out.println("welcome to test1");
 	@Test(enabled=false )
 	public  void Test3()
 	{
-	System.out.println("welcome to americ");
+	System.out.println("welcome to america");
 	System.out.println("Welcome to Banglore");
 	}
 }
