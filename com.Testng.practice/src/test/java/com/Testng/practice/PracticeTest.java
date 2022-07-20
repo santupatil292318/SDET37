@@ -22,6 +22,6 @@ System.out.println("hello santosh");
 	public  void Test3()
 	{
 	System.out.println("welcome to america");
-	System.out.println("Welcome to india");
+	System.out.println("Welcome to Banglore");
 	}
 }
